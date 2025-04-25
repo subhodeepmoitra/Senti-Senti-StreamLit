@@ -1,0 +1,9 @@
+Flask
+flask-cors
+tensorflow
+scikit-learn
+numpy
+emoji
+nltk
+gunicorn
+streamlit
